@@ -11,7 +11,7 @@
         "tsc": "yarn run tsc:watch:core"
     },
     "dependencies": {
-        "errors-framework": "https://bitbucket.org/scalamed-code/errors-framework#v1.0.0",
+        "errors-framework": "https://bitbucket.org/scalamed-code/errors-framework#v1.0.1",
         "google-libphonenumber": "^3.2.1"
     },
     "devDependencies": {
