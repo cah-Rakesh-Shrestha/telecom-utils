@@ -2,7 +2,7 @@
     "name": "telecom-utils",
     "version": "1.0.0",
     "main": "index.js",
-    "author": "Tomas Brambora",
+    "author": "Piyush Ramavat",
     "license": "UNLICENSED",
     "scripts": {
         "test": "jest"
