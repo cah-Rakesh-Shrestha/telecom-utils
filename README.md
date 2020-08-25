@@ -1,29 +1,10 @@
-# README #
+# What is the Error Framework?
+The Telecom Utils provides myriad utility functions to process telecom (phone/ mobile) numbers. It can parse, format the numbers and supports international numbers along with extension numbers (followed by `#`).
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+# What are the main parts of the Error Framework
+The `TelecomUtils` class consists of:
+- Validation functions
+- Formatter functions
+- Canonical functions
+- Comparison functions
+- Extension functions
