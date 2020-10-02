@@ -1,6 +1,6 @@
 {
     "name": "telecom-utils",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "main": "index.js",
     "author": "Piyush Ramavat",
     "license": "UNLICENSED",
@@ -11,7 +11,7 @@
         "tsc": "yarn run tsc:watch:core"
     },
     "dependencies": {
-        "errors-framework": "https://bitbucket.org/scalamed-code/errors-framework#v1.0.2",
+        "errors-framework": "https://bitbucket.org/scalamed-code/errors-framework#v1.1.0",
         "google-libphonenumber": "^3.2.1"
     },
     "devDependencies": {
