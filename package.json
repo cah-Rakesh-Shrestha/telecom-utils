@@ -11,13 +11,13 @@
         "tsc": "yarn run tsc:watch:core"
     },
     "dependencies": {
-        "errors-framework": "https://bitbucket.org/scalamed-code/errors-framework#v2.0.5",
+        "errors-framework": "https://github.com/cahcommercial/sm-errors-framework.git#v2.0.10",
         "google-libphonenumber": "^3.2.1"
     },
     "devDependencies": {
+        "@babel/runtime": "7.4.5",
         "@types/google-libphonenumber": "^7.4.17",
         "@types/jest": "^23.3.10",
-        "jest": "^23.6.0",
-        "@babel/runtime": "7.4.5"
+        "jest": "^23.6.0"
     }
 }
